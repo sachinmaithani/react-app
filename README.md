@@ -4,6 +4,7 @@ Node Js should be availaible with create-react-app globally install.
 Run the below commands:
 
 npm install -g create-react-app // this will install create-react-app globally 
+
 create-react-app react-app
 
 Above will provide structure for the react-app.Download the source code and replace it with react-app code 
